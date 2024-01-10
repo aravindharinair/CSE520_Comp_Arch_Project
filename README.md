@@ -15,5 +15,5 @@ The objective was to run through a given Assembly code, identify possible data h
 - No other dependencies are required ideally, but in case any are missing, you can install `pipreqs` using `pip install pipreqs` and run the command `pipreqs` in the project folder to generate a `requirements.txt` file. This can be installed using `pip install -r requirements.txt` command.
 
 ## Authors
-Aravind Hari Nair
+Aravind Hari Nair      
 Chiang Wang
