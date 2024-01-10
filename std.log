@@ -1,0 +1,3 @@
+ERROR:root:Stall at clock 4 due to t1
+ERROR:root:Stall at clock 6 due to t2
+ERROR:root:Stall at clock 10 due to t2
